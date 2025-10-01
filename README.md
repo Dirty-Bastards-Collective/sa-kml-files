@@ -3,3 +3,5 @@
 Compressed files can be found in states/.
 
 Washington DC is separate, and Unknown contains entries that fell outside of state lines. We're working on updating these entries to make them more accurate.
+
+Currently only containes CONUS entries. We will be adding Alaska and Hawaii soon.
